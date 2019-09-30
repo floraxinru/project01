@@ -34,15 +34,15 @@ Matplotlib, Seaborn, GeoPandas
 GitHub
 
 ### Division of Tasks
-- data collection 
-- data cleaning 
+- data collection: f
+- data cleaning: l 
 - visualization 
-  - seaborn visualization 
-  - geopandas 
-- GitHub repo setup and maintenance 
-- presentation slides 
-- project design, outline 
-- organizational/logistics/"project manager" role 
+  - seaborn visualization: f 
+  - geopandas: d 
+- GitHub repo setup and maintenance: f, d 
+- presentation slides: f 
+- project design, outline: all 
+- organizational/logistics/tasks of a "project manager" role: f 
 
 
 ### Results
